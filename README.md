@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Mohamed Dhia Hmem**, a **2nd-year engineering student** specializing in **Embedded Systems and IoT**. I'm passionate about **software development**, particularly working with **Angular** and **Spring Boot** to build modern web applications. 🚀
+I'm **Mohamed Dhia Hmem**, a **2nd-year engineering student** specializing in **Embedded Systems and IoT**.  I have a **Bachelor's degree in Software Engineering and Information Systems (2023)**.
 
 ### 🔥 About Me
 - 💻 I enjoy developing full-stack applications using **Angular** and **Spring Boot**.
